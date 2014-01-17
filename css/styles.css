@@ -1,0 +1,18 @@
+/* Your Website Styles */
+h1 {
+	font-family: 'Convergence', sans-serif;
+}
+
+h3 {
+	font-family: 'Convergence', sans-serif;
+}
+
+p {
+	font-family: 'Convergence', sans-serif;
+	letter-spacing: 1px;
+}
+
+/* Show Grid */
+.showgrid {
+	background: url("../img/grid-bg.png") repeat-y;
+}
